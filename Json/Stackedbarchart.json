@@ -1,0 +1,247 @@
+﻿[
+  {
+    "Country": "EAS",
+    "Average_For_Male": 3691.076,
+    "Average_For_Female": 3489.722
+  },
+  {
+    "Country": "SAS",
+    "Average_For_Male": 3052.786,
+    "Average_For_Female": 3017.524
+  },
+  {
+    "Country": "AFG",
+    "Average_For_Male": 2569.334,
+    "Average_For_Female": 2468.238
+  },
+  {
+    "Country": "ARM",
+    "Average_For_Male": 3969.571,
+    "Average_For_Female": 3624.344
+  },
+  {
+    "Country": "AZE",
+    "Average_For_Male": 3743.194,
+    "Average_For_Female": 3357.906
+  },
+  {
+    "Country": "BHR",
+    "Average_For_Male": 3834.392,
+    "Average_For_Female": 3671.181
+  },
+  {
+    "Country": "BGD",
+    "Average_For_Male": 3121.24,
+    "Average_For_Female": 3079.152
+  },
+  {
+    "Country": "BTN",
+    "Average_For_Male": 2709.106,
+    "Average_For_Female": 2705.818
+  },
+  {
+    "Country": "BRN",
+    "Average_For_Male": 3948.51,
+    "Average_For_Female": 3782.112
+  },
+  {
+    "Country": "KHM",
+    "Average_For_Male": 2729.223,
+    "Average_For_Female": 2481.406
+  },
+  {
+    "Country": "CHN",
+    "Average_For_Male": 3663.982,
+    "Average_For_Female": 3512.628
+  },
+  {
+    "Country": "GEO",
+    "Average_For_Male": 3968.308,
+    "Average_For_Female": 3561.132
+  },
+  {
+    "Country": "HKG",
+    "Average_For_Male": 4293.067,
+    "Average_For_Female": 3953.855
+  },
+  {
+    "Country": "IND",
+    "Average_For_Male": 3030.456,
+    "Average_For_Female": 3005.054
+  },
+  {
+    "Country": "IDN",
+    "Average_For_Male": 3369.975,
+    "Average_For_Female": 3210.121
+  },
+  {
+    "Country": "IRN",
+    "Average_For_Male": 3365.667,
+    "Average_For_Female": 3187.137
+  },
+  {
+    "Country": "IRQ",
+    "Average_For_Male": 3556.231,
+    "Average_For_Female": 3320.359
+  },
+  {
+    "Country": "JPN",
+    "Average_For_Male": 4328.561,
+    "Average_For_Female": 4019.02
+  },
+  {
+    "Country": "JOR",
+    "Average_For_Male": 3671.261,
+    "Average_For_Female": 3534.698
+  },
+  {
+    "Country": "KAZ",
+    "Average_For_Male": 3801.016,
+    "Average_For_Female": 3244.742
+  },
+  {
+    "Country": "PRK",
+    "Average_For_Male": 3645.578,
+    "Average_For_Female": 3282.232
+  },
+  {
+    "Country": "KOR",
+    "Average_For_Male": 3923.165,
+    "Average_For_Female": 3532.411
+  },
+  {
+    "Country": "KWT",
+    "Average_For_Male": 3845.37,
+    "Average_For_Female": 3723.357
+  },
+  {
+    "Country": "KGZ",
+    "Average_For_Male": 3704.8,
+    "Average_For_Female": 3258.901
+  },
+  {
+    "Country": "LAO",
+    "Average_For_Male": 2939.133,
+    "Average_For_Female": 2790.22
+  },
+  {
+    "Country": "LBN",
+    "Average_For_Male": 3907.901,
+    "Average_For_Female": 3716.992
+  },
+  {
+    "Country": "MAC",
+    "Average_For_Male": 4101.023,
+    "Average_For_Female": 3865.341
+  },
+  {
+    "Country": "MYS",
+    "Average_For_Male": 3815.153,
+    "Average_For_Female": 3636.463
+  },
+  {
+    "Country": "MDV",
+    "Average_For_Male": 3145.678,
+    "Average_For_Female": 3143.178
+  },
+  {
+    "Country": "MNG",
+    "Average_For_Male": 3352.875,
+    "Average_For_Female": 3057.616
+  },
+  {
+    "Country": "MMR",
+    "Average_For_Male": 3185.779,
+    "Average_For_Female": 2934.181
+  },
+  {
+    "Country": "NPL",
+    "Average_For_Male": 2844.439,
+    "Average_For_Female": 2773.526
+  },
+  {
+    "Country": "OMN",
+    "Average_For_Male": 3476.682,
+    "Average_For_Female": 3294.632
+  },
+  {
+    "Country": "PAK",
+    "Average_For_Male": 3167.322,
+    "Average_For_Female": 3109.844
+  },
+  {
+    "Country": "PHL",
+    "Average_For_Male": 3582.605,
+    "Average_For_Female": 3315.802
+  },
+  {
+    "Country": "QAT",
+    "Average_For_Male": 4002.646,
+    "Average_For_Female": 3866.342
+  },
+  {
+    "Country": "SAU",
+    "Average_For_Male": 3552.938,
+    "Average_For_Female": 3364.801
+  },
+  {
+    "Country": "SGP",
+    "Average_For_Male": 4139.221,
+    "Average_For_Female": 3853.037
+  },
+  {
+    "Country": "LKA",
+    "Average_For_Male": 3847.39,
+    "Average_For_Female": 3544.122
+  },
+  {
+    "Country": "SYR",
+    "Average_For_Male": 3682.437,
+    "Average_For_Female": 3556.667
+  },
+  {
+    "Country": "TJK",
+    "Average_For_Male": 3546.16,
+    "Average_For_Female": 3225.839
+  },
+  {
+    "Country": "THA",
+    "Average_For_Male": 3747.539,
+    "Average_For_Female": 3417.631
+  },
+  {
+    "Country": "TUR",
+    "Average_For_Male": 3522.747,
+    "Average_For_Female": 3161.955
+  },
+  {
+    "Country": "TKM",
+    "Average_For_Male": 3521.062,
+    "Average_For_Female": 3115.044
+  },
+  {
+    "Country": "ARE",
+    "Average_For_Male": 3793.398,
+    "Average_For_Female": 3626.234
+  },
+  {
+    "Country": "UZB",
+    "Average_For_Male": 3706.689,
+    "Average_For_Female": 3343.078
+  },
+  {
+    "Country": "VNM",
+    "Average_For_Male": 3937.307,
+    "Average_For_Female": 3441.446
+  },
+  {
+    "Country": "YEM",
+    "Average_For_Male": 2897.167,
+    "Average_For_Female": 2746.816
+  },
+  {
+    "Country": "ISR",
+    "Average_For_Male": 3892.64,
+    "Average_For_Female": 3716.93
+  }
+]
